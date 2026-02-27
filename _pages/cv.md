@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Download:** [PDF version of my CV]({{ base_path }}/files/CV_Oksana_Ivchenko.pdf)
+**Download:** [PDF version of my CV]({{ base_path }}/files/Curriculum_Vitae__ENG.pdf)
 
 ---
 
