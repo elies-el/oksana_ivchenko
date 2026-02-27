@@ -5,9 +5,9 @@ var addressPoints = [
     4.6138095
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Predictive Modelling of Fixations for Deciphering Reader Engagement<br />The 2nd Workshop on Eye Movements and the Assessment of Reading Comprehension; Z\u00fcrich, Switzerland",
+    47.3744489,
+    8.5410422
   ],
   [
     "Detection of Complexity in General and Medical-Language Texts Using Eye-Tracking Data<br />Workshop on Complexity in Language Sciences; France",
