@@ -4,3 +4,5 @@ title: "Oksana Ivchenko"
 permalink: /
 author_profile: true
 ---
+
+Hello! I’m a PhD researcher at the University of Lille working on eye-tracking, text simplification, and NLP.
