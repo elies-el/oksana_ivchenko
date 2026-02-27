@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Study of Medical Text Reading and Comprehension Through Eye-Tracking Fixations<br />UCLouvain; Louvain-la-Neuve, Belgium",
+    50.6740673,
+    4.6138095
   ],
   [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
