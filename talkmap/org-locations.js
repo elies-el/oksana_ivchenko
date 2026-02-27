@@ -10,9 +10,9 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Detection of Complexity in General and Medical-Language Texts Using Eye-Tracking Data<br />Workshop on Complexity in Language Sciences; France",
+    46.603354,
+    1.8883335
   ],
   [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
