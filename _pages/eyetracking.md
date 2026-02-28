@@ -28,7 +28,10 @@ The corpus contains:
 
 Below is an example recording showing gaze behaviour during reading. Fixations and scanpaths illustrate how readers allocate attention across the text.
 
-<!-- VIDEO HERE -->
+<video width="100%" controls>
+  <source src="/images/eye_tracking_demo.mp4" type="video/mp4">
+</video>
+
 
 ---
 
