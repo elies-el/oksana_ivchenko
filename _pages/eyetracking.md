@@ -5,7 +5,7 @@ permalink: /eye-tracking/
 author_profile: true
 ---
 
-## Eye-Tracking Project
+
 
 This project investigates how readers process texts of varying complexity using eye-tracking data. The goal is to identify objective indicators of reading difficulty and to support the development of accessible written communication.
 
