@@ -1,7 +1,7 @@
 ---
 title: "Study of Medical Text Reading and Comprehension Through Eye-Tracking Fixations"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-05-20-medical-text-reading
 date: 2024-05-20
 venue: 'Proceedings of CL4Health @ LREC-COLING 2024'
