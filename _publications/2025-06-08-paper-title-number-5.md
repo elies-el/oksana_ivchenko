@@ -1,7 +1,7 @@
 ---
 title: "Impact of Text Simplification on Understanding"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2022-01-01-impact-text-simplification
 date: 2022-01-01
 venue: 'Studies in Health Technology and Informatics'
