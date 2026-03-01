@@ -8,6 +8,4 @@ paperurl: 'https://aclanthology.org/2025.gaze4nlp-1.5.pdf'
 citation: 'Ivchenko, O., & Grabar, N. (2025). A French Eye-Tracking Corpus of Original and Simplified Medical, Clinical, and General Texts-FETA. In <i>Proceedings of the First International Workshop on Gaze Data and Natural Language Processing (RANLP)</i>.'
 ---
 
-Eye tracking offers an objective window on real-time cognitive processing of information being read: longer fixations, more regressions, and wider pupil dilation reliably index linguistic difficulty. Yet, there is a paucity of the available corpora annotated with eye-tracking features. 
-
 We introduce in this paper the FETA corpus–a French Eye-TrAcking corpus. It combines three types of texts (general, medical and clinical) in two versions (original and manually simplified). These texts are read by 46 participants, from which we collect eye-tracking data through dozens of eye-tracking features.
