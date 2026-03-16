@@ -22,3 +22,10 @@ A central focus of my work is medical and clinical communication, where textual 
 - Building annotated eye-tracking corpora for French
 
 ---
+## News
+
+- **11–12 February 2026** — I presented my work at the [*2ème Symposium en Santé Mentale et Intelligence Artificielle*](https://mentalai.ubi.pt/symposium/2026/), an international conference held at Université de Caen Normandie.  
+
+- **February 2026** — 🎉 My paper *Comparing Reading Behavior across Reader Expertise and Text Complexity: Insights from the French Eye-Tracking Corpus (FETA)* was accepted to **LREC-COLING 2026**, which will take place in Palma de Mallorca, Spain, **11–16 May 2026**.
+
+- **March 2026** — 🎉 My paper *Predicting Eye-Tracking Metrics in French Texts with Language Models* was accepted to the **ETRA 2026 Short Papers** track of the ACM Symposium on Eye Tracking Research & Applications, to be held in Marrakech, Morocco, **1–4 June 2026**.
