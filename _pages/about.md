@@ -12,6 +12,10 @@ My research explores how readers process complex written information and how rea
 
 A central focus of my work is medical and clinical communication, where textual complexity can directly affect understanding. By linking linguistic features with eye-movement data, I aim to develop automatic methods for detecting difficult content and supporting accessible text design.
 
+I also developed the **FETA Corpus** (*French Eye-Tracking Corpus*), a French eye-tracking corpus designed to study reading behaviour across text types, text complexity, reader expertise, and text simplification.
+
+The corpus is available here: [FETA Corpus: French Eye-Tracking Corpus](https://oksanaivchenko.github.io/feta-corpus/)
+
 ---
 
 ## Current Directions
